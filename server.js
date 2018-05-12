@@ -15,7 +15,7 @@ var app = require('./server/config/config.js')(
 const customRoute = require('./server/routes/customRoute.js')(app, path, flag);
 const mainRoute = require('./server/routes/mainRoute.js')(app, path, flag);
 
-const port = process.env.PORT || 80;
+const port = process.env.PORT || 8080;
 const server = app.listen(port, () => {
   flag.green('Ready', 'Everything is done right now! Server is started at ' + port);
 });
