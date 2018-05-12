@@ -288,12 +288,6 @@ router.post('/update', (req, res) => {
   }
 });
 
-router.get('/hacked', (req, res) => {
-  req.session.isLogin = true;
-  req.session.username = 'momocat';
-  res.send('LOGIN!!!');
-});
-
 router.post('/getsession', (req, res) => {
   
   if (typeof req.session.isLogin === 'undefined') {
