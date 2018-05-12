@@ -743,6 +743,7 @@ var __metadata = (this && this.__metadata) || function (k, v) {
 
 
 
+
 var DashboardComponent = /** @class */ (function () {
     function DashboardComponent(router, dataService) {
         this.router = router;
@@ -837,6 +838,7 @@ var DashboardComponent = /** @class */ (function () {
             template: __webpack_require__("./src/app/dashboard/dashboard.component.html"),
             styles: [__webpack_require__("./src/app/dashboard/dashboard.component.css")]
         }),
+        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["A" /* Injectable */])(),
         __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_1__angular_router__["a" /* Router */], __WEBPACK_IMPORTED_MODULE_2__data_service__["a" /* DataService */]])
     ], DashboardComponent);
     return DashboardComponent;
@@ -997,6 +999,7 @@ var __metadata = (this && this.__metadata) || function (k, v) {
 
 
 
+
 var LoginComponent = /** @class */ (function () {
     function LoginComponent(router, dataService) {
         this.router = router;
@@ -1054,6 +1057,7 @@ var LoginComponent = /** @class */ (function () {
             template: __webpack_require__("./src/app/login/login.component.html"),
             styles: [__webpack_require__("./src/app/login/login.component.css")]
         }),
+        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["A" /* Injectable */])(),
         __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_1__angular_router__["a" /* Router */], __WEBPACK_IMPORTED_MODULE_2__data_service__["a" /* DataService */]])
     ], LoginComponent);
     return LoginComponent;
@@ -1094,6 +1098,7 @@ var __decorate = (this && this.__decorate) || function (decorators, target, key,
 var __metadata = (this && this.__metadata) || function (k, v) {
     if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
 };
+
 
 
 
@@ -1178,6 +1183,7 @@ var Test1Component = /** @class */ (function () {
             template: __webpack_require__("./src/app/problem/test1/test1.component.html"),
             styles: [__webpack_require__("./src/app/problem/test1/test1.component.css")]
         }),
+        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["A" /* Injectable */])(),
         __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_1__angular_router__["a" /* Router */], __WEBPACK_IMPORTED_MODULE_2__data_service__["a" /* DataService */]])
     ], Test1Component);
     return Test1Component;
@@ -1218,6 +1224,7 @@ var __decorate = (this && this.__decorate) || function (decorators, target, key,
 var __metadata = (this && this.__metadata) || function (k, v) {
     if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
 };
+
 
 
 
@@ -1302,6 +1309,7 @@ var Test2Component = /** @class */ (function () {
             template: __webpack_require__("./src/app/problem/test2/test2.component.html"),
             styles: [__webpack_require__("./src/app/problem/test2/test2.component.css")]
         }),
+        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["A" /* Injectable */])(),
         __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_1__angular_router__["a" /* Router */], __WEBPACK_IMPORTED_MODULE_2__data_service__["a" /* DataService */]])
     ], Test2Component);
     return Test2Component;
@@ -1426,6 +1434,7 @@ var Test3Component = /** @class */ (function () {
             template: __webpack_require__("./src/app/problem/test3/test3.component.html"),
             styles: [__webpack_require__("./src/app/problem/test3/test3.component.css")]
         }),
+        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["A" /* Injectable */])(),
         __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_1__angular_router__["a" /* Router */], __WEBPACK_IMPORTED_MODULE_2__data_service__["a" /* DataService */]])
     ], Test3Component);
     return Test3Component;
@@ -1466,6 +1475,7 @@ var __decorate = (this && this.__decorate) || function (decorators, target, key,
 var __metadata = (this && this.__metadata) || function (k, v) {
     if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
 };
+
 
 
 
@@ -1550,6 +1560,7 @@ var Test4Component = /** @class */ (function () {
             template: __webpack_require__("./src/app/problem/test4/test4.component.html"),
             styles: [__webpack_require__("./src/app/problem/test4/test4.component.css")]
         }),
+        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["A" /* Injectable */])(),
         __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_1__angular_router__["a" /* Router */], __WEBPACK_IMPORTED_MODULE_2__data_service__["a" /* DataService */]])
     ], Test4Component);
     return Test4Component;
